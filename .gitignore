@@ -261,6 +261,10 @@ $RECYCLE.BIN/
 # Visual Studio temp something
 .vs/
 
+# Zip fils
+.7z
+.zip
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
