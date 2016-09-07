@@ -1,0 +1,5 @@
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

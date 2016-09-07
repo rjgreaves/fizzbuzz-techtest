@@ -1,0 +1,8 @@
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.exe
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+D:\Code\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
