@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FizzBuzz Tech Test 
 
 To complete the challenge clone the following repo and implement the FizzBuzz Kata either using .NET or Node. We've provided some skeleton code to get you started but feel free to use your own.
@@ -17,3 +18,6 @@ In all other cases, the program simply returns the given number.
 
 Make sure all your work is commited to your local repository.  
 Zip the entire folder (including .git) and email back to your recruitment consultant. 
+=======
+# fizzbuzz-techtest
+>>>>>>> a6936603007e151057c39111c744d5d8590591b3
